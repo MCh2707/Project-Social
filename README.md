@@ -12,12 +12,3 @@ Users can create and share blog posts, interact with other users, explore commun
 
 The goal is to create a platform that is more than just a typical social feed — it is a place where users can share ideas, discover interests, and build communities.
 
-# Features
-👤 User profiles
-📝 Blog and post sharing
-💬 Social interactions
-👥 Communities and clubs
-🔎 Discover content and users
-🎨 Personalized profiles
-📚 Interest-based communities
-📱 Responsive design
